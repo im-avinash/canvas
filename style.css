@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    line-height: 1.4;
+    list-style: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width: 100%;
+    height: auto;
+}
+.wrapper > canvas{
+    border: 1px solid black;
+}
